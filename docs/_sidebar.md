@@ -7,7 +7,7 @@
   - [centos](centos-config.md)
   - [vSphere](vSphere.md)
   - [CMD](CMD.md)
-  - [ssh](ssh.md)
+  - [ssh](linux/ssh.md)
   - [ansible](ansible-config.md)
   - [ubuntu](ubuntu-install.md)
   - [ubuntu问题](ubuntu-question.md)
